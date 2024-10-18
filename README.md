@@ -38,7 +38,7 @@ Sehingga Decision Tree menjadi Final Model dari Project kita<br/>
 ### Untuk lebih jelasnya, kalian bisa akses beberapa link di bawah ini 🔗
 File Python [EDA](https://github.com/gustiarifiyanto/data_sciene_enthuist/blob/392099ae384af751b75979aded0ab88431db652d/EDA%20-%206th%20Sense%20Analyst.ipynb) <br/>
 File Python Pre-processing <br/>
-File Python modelling <br/>
+File Python [modelling](https://github.com/gustiarifiyanto/data_sciene_enthuist/blob/70e0d174287422d08f4cc128869bc2e8cb360b9c/Stage_3_6th_Sense_Analyst.ipynb) <br/>
 File Presentasion 
 
 
