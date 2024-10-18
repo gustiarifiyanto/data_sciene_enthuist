@@ -4,7 +4,7 @@ Untuk lebih jelas nya kalian bisa lanjut scroll aja, happy reading 😎.
 
 ![](https://github.com/gustiarifiyanto/Assets/blob/main/Reading.gif)
 # Project Travel Insurance Prediction
-Project ini hasil akhir dari pembelajaran saya di Bootcamp Rakamin Academy dan sudah di presentasikan kepada user dan stackholder. Project ini mendapat penghargaan berupa **BEST TEAM PROJECT** pada Rakamin Academy Batch 40.
+Project ini hasil akhir dari pembelajaran saya di Bootcamp Rakamin Academy dan sudah di presentasikan kepada user dan stackholder. Project ini mendapat penghargaan berupa **BEST TEAM PROJECT** pada Rakamin Academy Batch 40. <br/>
 
 ### Masalah yang di hadapi 👻
 Perusahaan asuransi perjalanan kami ingin mengoptimalkan penjualan paket asuransi perjalanan. Tantangannya adalah memprediksi minat pelanggan secara akurat berdasarkan data historis yang sudah diberikan kepada kami. Kami bertujuan untuk mengatasi hal ini dengan memanfaatkan atribut demografis den perilaku untuk mengindentifikasi calon pelanggan yang paling mungkin membeli paket asuransi tersebut.
@@ -22,10 +22,24 @@ Pada dataset ini mempunyai **1987** baris 📜 <br/>Pada dataset ini mempunyai *
 * ChronicDiseases : Categorical, whether the customer has any chronic conditions
 * FrequentFlyer : Categorical, whether a customer books frequent tickets
 * EverTravelledAbord : Categorical, has the customer ever travelled abroad
-* TravelInsurance : Target, whether the customer bought travel insurance
+* TravelInsurance : Target, whether the customer bought travel insurance <br/>
 
+### Setelah dilakukan nya analisis EDA dan Pre-processing 🩺
+![](https://github.com/gustiarifiyanto/Assets/blob/main/dog%20com.gif) <br/>
+Outliers = Tidak ada ✔️<br/>
+Missing Values = Tidak ada ✔️<br/>
+Duplicate Data = Tidak ada ✔️<br/>
+### Setelah dilakukan nya testing model 🧪
+Dalam testing data dibagi menjadi 2 yaitu, train data dan test data yang di mana train data 70% dan test data 30%.<br/>
+Dapat dilihat pada gambar di bawah ini, bahwa model Decision Tree mempunyai hasil yang sangat memuaskan dari 2 model lain nya<br/>
+Sehingga Decision Tree menjadi Final Model dari Project kita<br/>
+![](https://github.com/gustiarifiyanto/Assets/blob/main/hasil%20model%20final.jpg)<br/>
 
-
+### Untuk lebih jelasnya, kalian bisa akses beberapa link di bawah ini 🔗
+File Python EDA <br/>
+File Python Pre-processing <br/>
+File Python modelling <br/>
+File Presentasion 
 
 
 
